@@ -2,7 +2,9 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/.org.eclipse.egit.core.cmp.iml" filepath="$PROJECT_DIR$/.org.eclipse.egit.core.cmp.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/2022-java.iml" filepath="$PROJECT_DIR$/.idea/2022-java.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Inflearn_java.iml" filepath="$PROJECT_DIR$/Inflearn_java.iml" />
     </modules>
   </component>
 </project>

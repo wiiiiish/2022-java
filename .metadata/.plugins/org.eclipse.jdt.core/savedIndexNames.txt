@@ -1,0 +1,4 @@
+INDEX VERSION 1.131+/Users/wish/Documents/2022-java/.metadata/.plugins/org.eclipse.jdt.core
+1865797976.index
+1762941264.index
+1697350411.index
